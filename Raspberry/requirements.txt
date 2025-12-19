@@ -1,0 +1,2 @@
+requests>=2.31.0
+# tkinter ставится через системный пакет python3-tk
