@@ -1,0 +1,5 @@
+1) Создать виртуальное окружение: 		python -m  venv venv
+2) Активировать виртуальное окружение (Linux):  ./venv/bin/activate
+3) Установить зависимости:			pip install -r requirements.txt
+4) Собрать с++ библиотеку:			python build_lib.py build_ext --inplace
+5) Запустить тесты:				python test_example.py
